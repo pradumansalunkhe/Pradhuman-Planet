@@ -42,4 +42,4 @@ Checkout and exit: Finalizes your order, applies any discounts, and exits the ap
 ## Example
 When the application starts, it displays a list of available products like this:
 
-i [Pradhuman Planet] (https://github.com/pradumansalunkhe/Pradhuman-Planet/blob/fe2447a343700a9caa2d3dc7088bcd9c810ac0be/Pradhuman%20Planet%203.png)
+![Pradhuman Planet](https://github.com/pradumansalunkhe/Pradhuman-Planet/blob/fe2447a343700a9caa2d3dc7088bcd9c810ac0be/Pradhuman%20Planet%203.png)
